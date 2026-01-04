@@ -3,8 +3,6 @@
 A modern **Kanban-style project management application** built with **React** and **Tailwind CSS**.  
 This project is designed to evolve into a **full-featured project management system**, including backend services, authentication, and real-time collaboration.
 
----
-
 ### Kanban Board
 ![Kanban Board](public/ScreenShots/kanban-board.png)
 
@@ -58,7 +56,7 @@ This project is actively being developed and will grow into a complete project m
 
 ---
 
-## 📁 Project Structure
+### 📁 Project Structure
 
 src/
 ├── Components/
@@ -71,8 +69,6 @@ src/
 ├── App.jsx
 ├── main.jsx
 └── index.css
-
-
 
 ---
 
@@ -97,10 +93,13 @@ Run the development server
 npm run dev
 
 
+```
 The app will be available at:
+
+```bash
+http://localhost:5173
 ```
 
-http://localhost:5173
 
 ## 🧠 Design Principles
 
