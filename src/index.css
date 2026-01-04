@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: light;
+}
+
+/* Make sure there's ZERO default margin and full-width background */
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body {
+  @apply bg-stone-100 text-stone-900 font-sans antialiased;
+}
+
