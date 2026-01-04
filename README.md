@@ -6,7 +6,7 @@ This project is designed to evolve into a **full-featured project management sys
 ---
 
 ### Kanban Board
-![Kanban Board](public/screenshots/kanban-board.png)
+![Kanban Board](public/ScreenShots/kanban-board.png)
 
 
 
